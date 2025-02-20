@@ -1,7 +1,7 @@
 # TravelSync
 
 # About the Project
-This is a simple **Travel Website** built using **HTML & CSS**. It provides users with inforamtion about travel deestinations, packages, and contact details in a well- structured layout.
+This is a simple **Travel Website** built using **HTML & CSS**. It provides users with inforamtion about travel destinations, packages, and contact details in a well- structured layout.
 
 # Features🌟
 - **Navbar** for easy navigation
