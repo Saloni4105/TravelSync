@@ -16,12 +16,20 @@ This is a simple **Travel Website** built using **HTML & CSS**. It provides user
 
 ![HomePage preview](https://github.com/user-attachments/assets/e83de6a5-c763-44b3-893e-e9f295a2a70c)
 
-Home Page
+**Home Page**
 
 ![Destination](https://github.com/user-attachments/assets/359c5fa4-8558-4ddb-85ff-06369816c617)
 
-Destination SHowcase
+**Destination Showcase**
 
 ![footer](https://github.com/user-attachments/assets/e004b020-a259-4775-84ed-3d62444217a4)
 
-Footer 
+**Footer**
+
+# How to use
+-Clone the repository:
+-Open index.html in your browser
+
+# Contact
+For any queries, erach out to me at salonigawande04@gmail.com
+
