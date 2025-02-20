@@ -11,8 +11,8 @@ This is a simple **Travel Website** built using **HTML & CSS**. It provides user
 - **Fully responsive** layout
 
 # Technology Used
--**HTML5**- Structure of the Website
--**CSS3**- styling and layout
+- **HTML5**- Structure of the Website
+- **CSS3**- styling and layout
 
 ![HomePage preview](https://github.com/user-attachments/assets/e83de6a5-c763-44b3-893e-e9f295a2a70c)
 
@@ -27,8 +27,8 @@ This is a simple **Travel Website** built using **HTML & CSS**. It provides user
 **Footer**
 
 # How to use
--Clone the repository:
--Open index.html in your browser
+- Clone the repository: https://github.com/Saloni4105/TravelSync
+- Open index.html in your browser
 
 # Contact
 For any queries, erach out to me at salonigawande04@gmail.com
